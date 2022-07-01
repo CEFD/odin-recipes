@@ -1,0 +1,28 @@
+img {
+    width: 400px;
+    height: auto;
+}
+
+* {
+    background-color: hsla(53, 100%, 35%, 1);
+    color: hsla(38, 100%, 3%, 1);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p,
+ul,
+ol {
+    font-size: 18px;
+}
